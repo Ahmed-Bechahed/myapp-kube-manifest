@@ -1,0 +1,1 @@
+# myapp-kube-manifest
